@@ -1539,6 +1539,7 @@
 			{"wxsend_touser", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_template_id", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_title", "", NULL, EVM_RESTART_WXSEND},
+			{"wxsend_content", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_notify_1", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_notify_2", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_notify_3", "", NULL, EVM_RESTART_WXSEND},
