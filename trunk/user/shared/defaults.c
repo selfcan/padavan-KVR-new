@@ -969,6 +969,7 @@ struct nvram_pair router_defaults[] = {
 	{ "wxsend_touser", "" },
 	{ "wxsend_template_id", "" },
 	{ "wxsend_title", "" },
+	{ "wxsend_content", "" },
 	{ "wxsend_notify_1", "0" },
 	{ "wxsend_notify_2", "0" },
 	{ "wxsend_notify_3", "0" },
