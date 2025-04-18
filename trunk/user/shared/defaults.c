@@ -968,6 +968,7 @@ struct nvram_pair router_defaults[] = {
 	{ "wxsend_appsecret", "" },
 	{ "wxsend_touser", "" },
 	{ "wxsend_template_id", "" },
+	{ "wxsend_webhook", "" },
 	{ "wxsend_title", "" },
 	{ "wxsend_content", "" },
 	{ "wxsend_notify_1", "0" },

@@ -1538,6 +1538,7 @@
 			{"wxsend_appsecret", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_touser", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_template_id", "", NULL, EVM_RESTART_WXSEND},
+			{"wxsend_webhook", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_title", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_content", "", NULL, EVM_RESTART_WXSEND},
 			{"wxsend_notify_1", "", NULL, EVM_RESTART_WXSEND},
