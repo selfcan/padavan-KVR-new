@@ -104,7 +104,7 @@ typedef u_int8_t u8;
 //#define EVM_RESTART_MENTOHUST			(1ULL << 50) //校园认证
 //#define EVM_RESTART_WYY			(1ULL << 50) //网易云
 #define EVM_RESTART_BAFA			(1ULL << 50) //巴法云
-//#define EVM_RESTART_ADBYBY			(1ULL << 51) //adb去广告
+#define EVM_RESTART_ADBYBY			(1ULL << 51) //adb去广告
 #define EVM_RESTART_ZEROTIER			(1ULL << 51) //zeriter异地组网
 //#define EVM_RESTART_DDNSTO	    		(1ULL << 52) //ddnsto内网穿透
 #define EVM_RESTART_WIREGUARD			(1ULL << 52) //wg异地组网
